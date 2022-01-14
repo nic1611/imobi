@@ -18,8 +18,8 @@ instalação dos pacotes contidos no arquivo requirements.txt
 pip install -r requirements.txt
 ```
 
-![]('login.png')
-![]('cadastro.png')
-![]('home.png')
-![]('imovel.png')
-![]('agendamentos.png')
+![](login.png)
+![](cadastro.png)
+![](home.png)
+![](imovel.png)
+![](agendamentos.png)
